@@ -6,7 +6,7 @@ This project presents the **design, simulation, and fabrication of a magneticall
 
 The gripper is developed using a **silicone (Ecoflex 00-50) and magnetite composite**, enabling deformation under external magnetic fields.
 
----
+
 
 ## Objectives
 - Design soft robotic gripper geometries using CAD (SolidWorks)
@@ -15,47 +15,49 @@ The gripper is developed using a **silicone (Ecoflex 00-50) and magnetite compos
 - Fabricate prototype using **3D printing (FDM)**
 - Validate real-world performance through experiments
 
----
+
 
 ## System Overview
 
-*Complete experimental setup showing magnetic actuation mechanism. The gripper is actuated using a fixed neodymium magnet and a movable structure.*
+Complete experimental setup showing magnetic actuation mechanism. The gripper is actuated using a fixed neodymium magnet and a movable structure.
 
----
+
 
 ##  Prototype Development
+Fabricated soft robotic grippers (Designs A, B, C, and D) using silicone-magnetite composite with varying concentrations.
 
-*Fabricated soft robotic grippers (Designs A, B, C, and D) using silicone-magnetite composite with varying concentrations.*
 
----
 
 ##  Final Optimized Design (Gripper D)
 
-*Optimized design with smaller geometry and higher magnetite concentration, resulting in improved deformation and responsiveness.*
+Optimized design with smaller geometry and higher magnetite concentration, resulting in improved deformation and responsiveness.
 
----
+
 
 ##  Engineering Analysis (ANSYS)
+Deformation Analysis
+Stress Analysis
+Magnetic Flux Simulation
+
 
 ###  Deformation Analysis
 
 
-*Maximum deformation occurs at the fingertips, demonstrating effective bending under magnetic actuation.*
+Maximum deformation occurs at the fingertips, demonstrating effective bending under magnetic actuation.
 
----
+
 
 ###  Stress Analysis
 
 
-*Stress concentration observed at the central hub, indicating primary load-bearing region.*
+Stress concentration observed at the central hub, indicating primary load-bearing region.
 
----
+
 
 ###  Magnetic Flux Simulation
 
-*Magnetic field distribution showing strong interaction between permanent magnet and gripper structure.*
+Magnetic field distribution showing strong interaction between permanent magnet and gripper structure.
 
----
 
 ##  Fabrication Process
 
@@ -64,7 +66,6 @@ The gripper is developed using a **silicone (Ecoflex 00-50) and magnetite compos
 - Degassing using centrifugal mixer
 - Magnetic alignment during curing
 
----
 
 ##  Experimental Results
 
@@ -72,7 +73,6 @@ The gripper is developed using a **silicone (Ecoflex 00-50) and magnetite compos
 - Successfully grasped objects up to **10 grams**  
 - Best performance achieved with **Gripper D**
 
----
 
 ## Key Engineering Concepts
 - Soft Robotics
@@ -82,7 +82,7 @@ The gripper is developed using a **silicone (Ecoflex 00-50) and magnetite compos
 - Magnetic Field Simulation (FEM)
 - Additive Manufacturing (3D Printing)
 
----
+
 
 ## Tools & Technologies
 - SolidWorks (CAD Design)
@@ -92,7 +92,6 @@ The gripper is developed using a **silicone (Ecoflex 00-50) and magnetite compos
 - Ecoflex 00-50 Silicone
 - Magnetite (Fe₃O₄) particles
 
----
 
 ## Applications
 - Medical robotics (minimally invasive tools)
@@ -100,12 +99,12 @@ The gripper is developed using a **silicone (Ecoflex 00-50) and magnetite compos
 - Soft automation systems
 - Micro-manipulation tasks
 
----
+
 
 ## Future Improvements
 - Sensor integration for feedback control
 - Electromagnetic actuation systems
 - Miniaturization for micro-scale robotics
 
----
+
 
