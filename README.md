@@ -35,9 +35,6 @@ Optimized design with smaller geometry and higher magnetite concentration, resul
 
 
 ##  Engineering Analysis (ANSYS)
-Deformation Analysis
-Stress Analysis
-Magnetic Flux Simulation
 
 
 ###  Deformation Analysis
