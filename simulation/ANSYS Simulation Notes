@@ -1,0 +1,12 @@
+## Structural Analysis
+- Performed deformation and stress analysis
+- Boundary conditions applied at base
+- Magnetic force simulated as external load
+
+## Magnetic Analysis
+- Used ANSYS Maxwell
+- Simulated magnetic flux distribution
+- Observed strongest interaction near gripper tips
+
+## Key Result
+- Gripper D showed highest deformation and efficiency
